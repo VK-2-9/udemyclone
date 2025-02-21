@@ -163,7 +163,7 @@ max-width: 24%;
   padding: 10px;
   flex-grow: 1;
   flex-basis: 25%;
-  max-width: 30%;
+ 
 
 }
 
@@ -256,7 +256,8 @@ max-width: 24%;
     }
 
     .topics__container p{
-      max-width: 26%;
+      flex-basis: 20%;
+
     }
 
 }
