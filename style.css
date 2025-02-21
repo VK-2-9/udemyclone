@@ -163,6 +163,7 @@ max-width: 24%;
   padding: 10px;
   flex-grow: 1;
   flex-basis: 25%;
+  max-width: 30%;
 
 }
 
@@ -252,6 +253,10 @@ max-width: 24%;
 
     .sale-image__offer{
       font-size: 6px;
+    }
+
+    .topics__container p{
+      max-width: 26%;
     }
 
 }
